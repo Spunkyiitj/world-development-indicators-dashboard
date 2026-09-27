@@ -160,14 +160,6 @@ python scripts/fetch_worldbank_data.py
 
 ---
 
-## 🚀 Future Improvements
-
-- Schedule automatic data refresh (GitHub Actions / Power BI Service)
-- Add a choropleth map using the collected latitude/longitude
-- Build a forecasting model (e.g. life expectancy or GDP) with scikit-learn
-- Publish the report online with *Publish to Web*
-
----
 
 ## 👤 Author
 
