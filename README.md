@@ -171,9 +171,9 @@ python scripts/fetch_worldbank_data.py
 
 ## 👤 Author
 
-**Aman Kumar**
-📧 amankumarthermal@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+**Prince Raj**
+📧 spunkyiitj@gmail.com 
 
 ⭐ *If you found this project useful, consider giving it a star!*
 
-<sub>Data © The World Bank, licensed under CC BY 4.0.</sub>
+
