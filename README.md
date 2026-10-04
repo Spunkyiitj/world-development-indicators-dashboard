@@ -133,7 +133,7 @@ world-development-indicators-dashboard/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/world-development-indicators-dashboard.git
+git clone https://github.com/spunkyiitj/world-development-indicators-dashboard.git
 cd world-development-indicators-dashboard
 
 # 2. Install dependencies
